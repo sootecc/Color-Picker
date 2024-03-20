@@ -1,1 +1,1 @@
-shift + c to pick color and copy hexcode
+'shift + c' to pick color and copy hexcode
